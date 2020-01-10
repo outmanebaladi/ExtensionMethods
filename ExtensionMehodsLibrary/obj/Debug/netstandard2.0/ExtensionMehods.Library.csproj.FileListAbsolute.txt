@@ -1,0 +1,8 @@
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\bin\Debug\netstandard2.0\ExtensionMehods.Library.deps.json
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\bin\Debug\netstandard2.0\ExtensionMehods.Library.dll
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\obj\Debug\netstandard2.0\ExtensionMehods.Library.AssemblyInfoInputs.cache
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\obj\Debug\netstandard2.0\ExtensionMehods.Library.AssemblyInfo.cs
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\obj\Debug\netstandard2.0\ExtensionMehods.Library.csprojAssemblyReference.cache
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\bin\Debug\netstandard2.0\ExtensionMehods.Library.pdb
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\obj\Debug\netstandard2.0\ExtensionMehods.Library.dll
+C:\Users\Outmane.BALADI\source\repos\ExtensionMehodsLibrary\ExtensionMehodsLibrary\obj\Debug\netstandard2.0\ExtensionMehods.Library.pdb
